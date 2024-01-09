@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+
+    text-decoration: none;
+    background-color: white;
+    color: blue;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+header {
+
+    background-color: rgb(0, 110, 255);
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    background-color: rgb(0, 110, 255); 
+    text-align: center; 
+    border-radius: 8px;
+}
+
+footer {
+    background-color: rgb(0, 110, 255);
+    padding: 8px;
+}
+
+footer p {
+    background-color: white;
+}
+
+nav a {
+    background-color: rgb(0, 110, 255);
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+    border-radius: 8px;
+    border: 2px solid rgb(0, 110, 255);
+}
+
+.aliya {
+    background-color: white;
+    color: rgb(0, 110, 255);
+
+}
+
+.by {
+
+    border: 5px solid rgb(0, 110, 255);
+    border-radius: 15px;
+    padding: 6px;
+}
+
+h2{
+    color: rgb(0, 110, 255);
+}
